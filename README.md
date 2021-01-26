@@ -1,2 +1,6 @@
-# CPSC-419
-Machine learning
+# Machine Learning
+
+## CPSC 419
+
+Using Typora
+
